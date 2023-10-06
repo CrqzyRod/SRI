@@ -7,3 +7,5 @@ Para crear el servidor web tenemos que escribir en la consola el siguiente coman
 Aquí podemos ver como python nos sirve el puerto 8000 para poder abrir nuestro servidor
 
 Si accedemos al servidor desde el navegador usando el comando localhost:8000 podemos visualizar el contenido de nuestro index.html
+
+![Prueba Server](img2.png)
