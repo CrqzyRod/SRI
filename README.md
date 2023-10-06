@@ -5,5 +5,5 @@
 | Nº Ejercicio | Descripción |
 |--------------|-------------|
 |[Ejercicio1](Tema0/Ejercicio1)  |     Simple Web Server        |
-|[Ejercicio2]()  |             |
-|[Ejercicio3]()  |             |
+|[Ejercicio2]()  |       Http Server      |
+|[Ejercicio3]()  |   Dummy Web Server          |
