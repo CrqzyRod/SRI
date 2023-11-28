@@ -11,4 +11,4 @@
 
 ## Tema 1 - Scripts
 |--------|-------|
-|[Ejercicio1]
+|[Script]
