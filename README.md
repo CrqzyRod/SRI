@@ -10,8 +10,7 @@
 
 
 ## Tema 1 - Scripts
-|-----------|----------|
-|[Script](Tema1/script1.md) | Script que añade un puerto |
+|[Script1](Tema1/script1.md) | Script que añade un puerto |
 
 
 ## Proyecto 1er Trimestre
