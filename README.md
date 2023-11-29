@@ -10,7 +10,7 @@
 
 
 ## Tema 1 - Scripts
-|--------|-------|
+|-----------|----------|
 |[Script](Tema1/script1.md) | Script que añade un puerto |
 
 
