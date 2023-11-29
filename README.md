@@ -1,4 +1,4 @@
-# SRI - 2ASIR - Juanma Gonzalez
+# SRI - 2ASIR - Juanma González
 
 ## Tema 0 - Actividad de Introducción
 
