@@ -24,4 +24,3 @@ echo "$pagina">"$nombre_fichero"
 echo "Se ha creado la página web $nombre_fichero correctamente"
 
 fi
-
