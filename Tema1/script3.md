@@ -1,5 +1,5 @@
 ### Crea un script que nos permita crear una página web con título, cabecera y mensaje. En mi caso he añadido una cuarta variable en la que puedes añadir el nombre del fichero donde se almacena la página web.
-
+```bash
 #!/bin/bash
 if [ $# -lt 4 ]; then
 echo "El uso correcto del script es <nombre_fichero> <título> <cabecera> <mensaje>"
@@ -24,3 +24,4 @@ echo "$pagina">"$nombre_fichero"
 echo "Se ha creado la página web $nombre_fichero correctamente"
 
 fi
+```
