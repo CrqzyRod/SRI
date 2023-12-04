@@ -1,5 +1,5 @@
 ### Crea un script que añada un nombre de dominio y una ip al fichero host. Debemos comprobar que no existe dicho dominio
-
+```bash
 #!/bin/bash
 
 if [ $# -eq 2 ]; then
@@ -13,3 +13,4 @@ fi
 else
 echo "La sintaxis es erronea, introduzca IP...dominio"
 fi
+```
