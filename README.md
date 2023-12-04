@@ -1,6 +1,6 @@
-# SRI - 2ASIR - Juanma González
+# SRI - 2ASIR - Juanma González Márquez
 
-## Tema 0 - Actividad de Introducción
+## Tema 0 - Actividades de Introducción
 
 | Nº Ejercicio | Descripción |
 |--------------|-------------|
@@ -18,5 +18,5 @@
 |[Script3](Tema1/script3.md)  |   Crear página web con título, cabecera y mensaje          |
 
 
-## Proyecto 1er Trimestre
+## Proyecto Primer Trimestre
 [Proyecto](https://github.com/CrqzyRod/SRI1T)
