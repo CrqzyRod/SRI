@@ -18,5 +18,5 @@
 |[Script3](Tema1/script3.md)  |   Crear página web con título, cabecera y mensaje          |
 
 
-## Proyecto Primer Trimestre
+## Proyecto 1er Trimestre
 [Proyecto](https://github.com/CrqzyRod/SRI1T)
