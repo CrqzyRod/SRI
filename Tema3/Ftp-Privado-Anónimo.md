@@ -27,8 +27,8 @@ Para ello permitimos la conexión usando la directiva AllowUser
 
 ![imagen](https://github.com/CrqzyRod/SRI/assets/122454007/b8afe7e3-445b-4b8a-9f04-363ae45e9eec)
 
-Comprobación accediendo con una IP: 
+Comprobación accediendo con IP:10.4.0.43 
 
 ![imagen](https://github.com/CrqzyRod/SRI/assets/122454007/a3b88ff5-f767-42de-b327-2ce154f41ea8)
 
-![imagen](https://github.com/CrqzyRod/SRI/assets/122454007/c97d5a64-4020-41d1-9ba2-d12b161300bb)
+Comprobación accediendo con IP:
