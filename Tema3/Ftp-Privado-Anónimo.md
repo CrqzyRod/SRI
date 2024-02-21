@@ -1,5 +1,12 @@
 ## Configuración de proftpd para usuarios anónimos.
 ### Configura proftpd para que los usuarios accedan al directorio /home/ftp (puedes usar DefaultChdir). ¿Cual es la diferencia entre DefaultRoot y DefaultChdir?
+
+![imagen](https://github.com/CrqzyRod/SRI/assets/122454007/1b9f47df-df63-4d73-b59c-13605465bcfb)
+
 La diferencia entre ambas configuraciones es la siguiente:
   - DefaultRoot se usa para establecer la ruta por defecto cuando se conecte el usuario al servidor ftp.
   - DefaultChdir se usa para establecer la ruta a la que se cambiará al usuario una vez conectado.
+
+### No se permitirá subir ni eliminar nada de la carpeta ftp
+
+![imagen](https://github.com/CrqzyRod/SRI/assets/122454007/9564aad0-303d-47de-aadd-5ea9fa30f08b)
