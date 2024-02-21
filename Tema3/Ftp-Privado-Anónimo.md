@@ -17,7 +17,13 @@ En el fichero de configuración de proftpd usando la directiva Directory estable
 
 ### Configura el acceso mediante usuario anónimo
 
-Para ello en el fichero de configuración de proftpd descomentamos las líneas de configuración de anonymous
+Para ello en el fichero de configuración de proftpd descomentamos las líneas de configuración de anonymous.
 
 ![imagen](https://github.com/CrqzyRod/SRI/assets/122454007/7a857696-7cf0-45c5-af99-602af26ed25c)
+
+### Permite que el usuario anónimo pueda escribir si accede desde la red 10.6.0.x
+
+Para ello permitimos la conexión usando la directiva AllowUser
+
+![imagen](https://github.com/CrqzyRod/SRI/assets/122454007/ad66f7dd-25ce-4411-a23b-ea1c2698493d)
 
