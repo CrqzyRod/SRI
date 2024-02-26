@@ -38,3 +38,8 @@ Configuramos el fichero de virtuals
 Modificamos
 
 ![imagen](https://github.com/CrqzyRod/SRI/assets/122454007/29e761d2-5ee9-4182-8a58-06f564718dc9)
+
+Para comprobar el correcto funcionamiento, crearemos un fichero dentro de la ruta y accederemos a dicha ruta usando ftp
+
+![imagen](https://github.com/CrqzyRod/SRI/assets/122454007/c3805dfc-d745-4757-92d0-79de9ba6b53e)
+
