@@ -19,6 +19,5 @@ Comprobación del usuario
 
 ![imagen](https://github.com/CrqzyRod/SRI/assets/122454007/1b21a6e9-9b9b-4a1a-a1ef-59e04078b842)
 
-### Haz los cambios necesarios en el fichero de configuración de proftpd
 ### Crea un sitio virtual para “informatica.marisma.local”
 ### Modifica el fichero de zona del DNS para que resuelva adecuadamente
