@@ -15,9 +15,15 @@ Creación del usuario
 
 ![imagen](https://github.com/CrqzyRod/SRI/assets/122454007/6cd57937-b4ab-4001-b7c4-97ebbb20ade6)
 
+### Haz los cambios necesarios en el fichero de configuración de proftpd
+
+![imagen](https://github.com/CrqzyRod/SRI/assets/122454007/14fc29f6-37d9-4f0f-890f-402a323694d6)
+
 Comprobación del usuario
 
 ![imagen](https://github.com/CrqzyRod/SRI/assets/122454007/1b21a6e9-9b9b-4a1a-a1ef-59e04078b842)
 
 ### Crea un sitio virtual para “informatica.marisma.local”
+
+
 ### Modifica el fichero de zona del DNS para que resuelva adecuadamente
