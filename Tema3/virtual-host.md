@@ -25,5 +25,8 @@ Comprobación del usuario
 
 ### Crea un sitio virtual para “informatica.marisma.local”
 
+Descomentamos la siguiente línea:
+
+![imagen](https://github.com/CrqzyRod/SRI/assets/122454007/18a2ffa6-def6-46e8-802e-c61207e8a4b6)
 
 ### Modifica el fichero de zona del DNS para que resuelva adecuadamente
