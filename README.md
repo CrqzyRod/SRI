@@ -20,3 +20,6 @@
 
 ## Proyecto 1er Trimestre
 [Proyecto](https://github.com/CrqzyRod/SRI1T)
+
+## Proyecto 2do Trimestre
+[Proyecto](https://github.com/CrqzyRod/SRI2T)
