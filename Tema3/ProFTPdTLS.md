@@ -26,3 +26,4 @@ Lo descargamos usando el comando apt-get install filezilla
 
 ### Configura filezilla para usar una conexión TLS y comprueba que funciona correctamente.
 
+![imagen](https://github.com/CrqzyRod/SRI/assets/122454007/b2d56c9f-ed88-4e75-a887-4a34ece0d6d9)
