@@ -1,6 +1,6 @@
 # SRI - 2ASIR - Juanma González Márquez
-
-## Tema 0 - Actividades de Introducción
+## Primer trimestre
+### Tema 0 - Actividades de Introducción
 
 | Nº Ejercicio | Descripción |
 |--------------|-------------|
@@ -9,7 +9,7 @@
 |[Ejercicio3](Tema0/Ejercicio3.md)  |   Dummy Web Server          |
 
 
-## Tema 1 - Scripts
+### Tema 1 - Scripts
 
 | Nº Script | Descripción |
 |--------------|-------------|
@@ -18,7 +18,7 @@
 |[Script3](Tema1/script3.md)  |   Crear página web con título, cabecera y mensaje          |
 
 
-## Tema 3 - Servidores de transferencias de archivos
+### Tema 3 - Servidores de transferencias de archivos
 
 | Nº Ejercicio | Descripción |
 |--------------|-------------|
@@ -26,7 +26,7 @@
 |[Ejercicio2](Tema3/virtual-host.md)  |       ProFTPd VirtualHost      |
 |[Ejercicio3](Tema3/ProFTPdTLS.md)  |   ProFTPd TLS          |
 
-## Proyecto 1er Trimestre
+### Proyecto
 [Proyecto](https://github.com/CrqzyRod/SRI1T)
 
 ## Proyecto 2do Trimestre
