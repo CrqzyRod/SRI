@@ -29,7 +29,9 @@
 ### Proyecto
 [Proyecto](https://github.com/CrqzyRod/SRI1T)
 
-## Proyecto 2do Trimestre
+## Segundo trimestre
+### Proyecto
+
 [Proyecto](https://github.com/CrqzyRod/SRI2T)
 
 [Docker](https://github.com/CrqzyRod/SRI2T-Docker)
